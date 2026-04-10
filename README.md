@@ -18,9 +18,8 @@ While the programs vary in scope (typically under 200 lines of code), they gener
 
 <ul>
   <li><strong>Object-Oriented Programming (OOP):</strong> Classes, inheritance, polymorphism, and encapsulation.</li>
-  <li><strong>Core Mechanics & Memory:</strong> Pointers, templates, bit manipulation (e.g., <code>std::bitset</code>), and standard libraries.</li>
+  <li><strong>Core Mechanics & Memory:</strong> Pointers, templates, bit manipulation and standard libraries.</li>
   <li><strong>Data Structures & Algorithms:</strong> Custom implementations and logic exercises.</li>
-  <li><strong>Terminal Applications:</strong> Small interactive scripts and text-based utilities.</li>
 </ul>
 
 <br>
